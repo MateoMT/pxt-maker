@@ -47,4 +47,4 @@ Run
 
 to generate a minified version of ``boardhd.svg``.
 
-## Step 4: Send us a Pull Request!!!
+## Step 5: Send us a Pull Request!!!
